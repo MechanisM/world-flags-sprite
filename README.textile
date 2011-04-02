@@ -6,7 +6,7 @@ h2. Example usage:
 
 In the head of your html file:
 
-@<link rel="stylesheet" type="text/css" href="http://github.com/lafeber/world-flags-sprite/raw/master/stylesheets/flags32.css" />@
+@<link rel="stylesheet" type="text/css" href="http://github.com/MechanisM/world-flags-sprite/raw/master/stylesheets/flags32.css" />@
 
 In the body of your html file:
 
@@ -23,5 +23,3 @@ The countries corresponding to the codes can be found at "http://en.wikipedia.or
 
 If a previously visited site uses this same code, the file is already in the cache of the user and doesn't need to be downloaded again.
 NB: It won't work in https environments. You can download the css files and include them locally instead.
-
-See "the cheese wiki":http://www.cheesewiki.com/ for an example
